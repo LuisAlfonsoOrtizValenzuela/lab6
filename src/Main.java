@@ -5,7 +5,7 @@ public class Main {
         RegistroDisquera departamentoProduccion = RegistroDisquera.getInstance();
 
         departamentoMarketing.registrarArtista("Dua lipa");
-        departamentoMarketing.registrarArtista("The Wekend");
+        departamentoMarketing.registrarArtista("The Weeknd");
 
         departamentoProduccion.registrarArtista("Rosalia");
 
